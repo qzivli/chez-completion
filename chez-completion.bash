@@ -94,3 +94,4 @@ _chez_completion() {
 
 complete -F _chez_completion scheme
 complete -F _chez_completion petite
+complete -F _chez_completion chez
